@@ -1,0 +1,28 @@
+{
+  "name": "cause-threshold",
+  "version": "0.0.0",
+  "description": "checks if a threshold has been crossed",
+  "main": "index.js",
+  "license": "CC-BY-NC-SA-4.0",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "freder.code@gmail.com",
+  "dependencies": {
+    "versus": "^0.2.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/freder/cause-threshold.git"
+  },
+  "keywords": [
+    "cause",
+    "cause-block",
+    "threshold"
+  ],
+  "bugs": {
+    "url": "https://github.com/freder/cause-threshold/issues"
+  },
+  "homepage": "https://github.com/freder/cause-threshold"
+}
